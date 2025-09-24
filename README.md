@@ -1,5 +1,4 @@
-# 01_Python_sadiqpashag_yt_classes
-This is a python repo for classes taught on yt channel [@sadiqpashag](https://www.youtube.com/@sadiqpashag)
+# https://www.youtube.com/playlist?list=PL_Xg_EN1dgTGsWP7Q6eaadID5rMmHSmVn
 
 
 # Python Classes Curriculum by Sadiq Pasha
